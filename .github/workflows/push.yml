@@ -14,4 +14,4 @@ jobs:
       with:
         token: ${{ secrets.ACTION_SCRIPT }}
         event-type: ost-data-export-update-event
-        repository: BA-OST-Index/ost_data_export
+        repository: BA-OST-Index/ost_data_site_generator
